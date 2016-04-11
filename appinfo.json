@@ -32,7 +32,7 @@
             {
                 "file": "images/hc.png",
                 "name": "IMAGES_HC_PNG",
-                "type": "png"
+                "type": "bitmap"
             }
         ]
     },

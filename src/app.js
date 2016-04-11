@@ -8,7 +8,7 @@ var ajax = require('ajax');
 
 var main = new UI.Card({
   title: '',
-  icon: 'hc.png',
+  icon: 'images/hc.png',
   subtitle: '',
   body: '',
   subtitleColor: 'indigo', // Named colors
